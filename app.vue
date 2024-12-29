@@ -53,7 +53,7 @@
                   </v-col>
                   <v-col cols="12" sm="auto" class="px-2 mb-3">
                     <v-btn
-                    href="https://discord.com/users/hoge00"
+                    href="https://discord.com/users/1202977667499163709"
                     target="_blank"
                     class="social-btn"
                     block
